@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Lato:wght@400;700&family=Nanum+Gothic&family=Open+Sans:wght@400;500;600&family=Poppins:wght@400;500;600&family=Titillium+Web&display=swap');
+.test{
+    background: #D8D8EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.test-container{
+    
+    width: 80%;
+    height: auto;
+}
+.test-title{
+    
+    display: flex;
+    justify-content: center;
+    
+}
+.test-title h2{
+    
+    width: 30%;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 45px;
+    line-height: 65px;
+}
+.test-body{
+    
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    
+}
+
+.test-item{
+    background-color: white;
+    border: none;
+    width: 600px;
+    height: 400px;
+    border-radius: 20px 20px 0 20px;
+    
+}
+.test-star{
+    margin-top: 30px;
+    margin-left: 30px;
+    color: rgb(184, 184, 86);
+    
+}
+.test-star i{
+    font-size: 20px;
+}
+.test-text{
+    margin-top: 15px;
+}
+.test-text h2{
+    margin-left: 30px;
+    font-size: 35px;
+    font-family: 'Lato', sans-serif;
+
+}
+.test-text p{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 23px;
+    font-family: 'Lato', sans-serif;
+}
+.test-info{
+    
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.test-info-text{
+    font-family: 'Lato', sans-serif;
+    margin-left: 15px;
+}
+.test-info-text h2{
+    font-size: 15px;
+}
+.test-btn{
+    
+    display: flex;
+    justify-content: center;
+    padding: 70px 0;
+}
+.test-btn i{
+    font-size: 50px;
+    padding: 0 30px;
+    color: rgb(61, 61, 204);
+}

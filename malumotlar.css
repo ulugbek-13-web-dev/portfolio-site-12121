@@ -1,0 +1,126 @@
+.malumotlar-qismi{
+   
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.birinchi-qismi{
+    
+    width: 35%;
+}
+.about{
+    
+    width: 120px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.about img{
+    width: 50px;
+    height: 10px;
+}
+.about h2{
+    font-size: 15px;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: #4745a3;
+}
+.yulduzcha{
+    margin-top: 60px;
+    color: #4745a3;
+}
+.malumoti{
+    
+    width: 90%;
+    font-size: 18px;
+    margin-top: 20px;
+    font-family: 'DM Sans', sans-serif;
+}
+.Steve-haqida{
+    
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+    align-items: center;
+    
+}
+.Steve-img img{
+    width: 35px;
+    height: auto;
+}
+
+.text-qismi h2{
+    font-size: 15px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.text-qismi h3{
+    font-size: 13px;
+    font-family: 'Nanum Gothic', sans-serif;
+    margin-top: 5px;
+}
+
+
+.ikkinchi-qismi{
+    
+    width: 65%;
+}
+.sarlavha{
+    width: 70%;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 25px;
+}
+.baholar{
+    width: 85%;
+    
+    padding: 15px 0;
+    
+}
+.raqamli-qismi{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 25px 0;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.raqamli-qismi h2{
+    color:  #4543E8;
+    padding: 10px 0;
+    font-size: 35px;
+}
+.raqamli-qismi p{
+    font-size: 12px;
+}
+.logoipsum{
+    
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+.logoipsum-1,
+.logoipsum-2,
+.logoipsum-3,
+.logoipsum-4{
+    width: 20%;
+    height: auto;
+    
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.logoipsum-1 img,
+.logoipsum-2 img,
+.logoipsum-3 img,
+.logoipsum-4 img{
+    width: 15px;
+    height: 50%;
+}
+.logoipsum-1 p,
+.logoipsum-2 p,
+.logoipsum-3 p,
+.logoipsum-4 p{
+    margin-left: 10px;
+}

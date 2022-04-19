@@ -1,0 +1,75 @@
+.process{
+    
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
+}
+.process-container{
+    
+    width: 80%;
+    
+}
+.process-1{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.process-1-title{
+    
+    width: 30%;
+
+}
+.process-1-title h2{
+    font-size: 10px;
+    color: #4543E8;
+    font-family: 'Lato', sans-serif;
+
+}
+.process-1-title h3{
+    font-size: 42px;
+    font-family: 'Lato', sans-serif;
+}
+
+.process-2-title{
+    
+    width: 25%;
+    
+}
+.process-2-title p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+.process-2{
+    
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    
+}
+.information{
+    margin-top: 30px;
+}
+.process-info-1,
+.process-info-2,
+.process-info-3{
+    
+    width: 27%;
+}
+.number h2,
+.number h2,
+.number h2{
+    
+    color: #4543E8;
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+.information h2{
+    
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+.information p{
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}

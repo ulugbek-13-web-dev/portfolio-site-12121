@@ -1,0 +1,346 @@
+@media screen and (max-width:480px) {
+    .navbar{
+        display: none;
+    }
+    .header-body-cont{
+        flex-direction: column;
+    }
+    .header-body-text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .header-body-text h2,
+    .header-body-text p{
+        width: 100%;
+    }
+    .header-body-2{
+        padding: 30px 0;
+    }
+    .header-body-2 img{
+        width: 80%;
+    }
+    .malumotlar-qismi{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .birinchi-qismi{
+        width: 100%;
+        
+    }
+    .ikkinchi-qismi{
+        width: 100%;
+    }
+    .sarlavha{
+        width: 100%;
+    }
+    .baholar{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .baholar h2{
+        font-size: 40px;
+    }
+    .baholar p{
+        font-size: 20px;
+    }
+    .logoipsum{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .work-title h2{
+        width: 100%;
+        text-align: center;
+    }
+    .work-body{
+        flex-direction: column;
+    }
+    .work-item{
+        width: 100%;
+    }
+    .services-1{
+        flex-direction: column;
+    }
+    .services-item-1, .services-item-2, .services-item-3 {
+        width: 100%;
+    }
+    .services-item-1{
+        justify-content: flex-start;
+    }
+    .services-item-1 h2{
+        width: 90%;
+        padding: 0 0 50px 0;
+    }
+    .services-item-text p{
+        width: 90%;
+        padding: 20px 0;
+    }
+    .services-2{
+        flex-direction: column;
+    }
+    .test-container{
+        width: 100%;
+    }
+    .test-title h2{
+        width: 100%;
+    }
+    .test-body{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 15px 0;
+    }
+    .test-item{
+        margin-top: 15px;
+        width: 95%;
+    }
+    .test-1,
+    .test-2{
+        width: 95%;
+        padding: 25px 0;
+    }
+
+    .process{
+        width: 100%;
+    }
+    .process-container{
+        width: 100%;
+    }
+    .process-1{
+        display: flex;
+        flex-direction: column;
+    }
+    .process-1-title{
+        width: 100%;
+    }
+    .process-1-title h2{
+        font-size: 15px;
+    }
+    .process-1-title h3{
+        font-size: 45px;
+    }
+    .process-2{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .process-2 h2{
+        font-size: 45px;
+    }
+    .process-2 p{
+        font-size: 25px;
+    }
+    .process-2-title{
+        width: 100%;
+    }
+    .process-2-title p{
+        font-size: 25px;
+    }
+    .process-info-1,
+    .process-info-2,
+    .process-info-3{
+        width: 100%;
+    }
+
+
+    .for-sr-2{
+        width: 100%;
+    }
+    .for-sr-2 p{
+        width: 95%;
+        padding: 20px 0;
+    }
+}
+@media screen and (min-width:481px) and (max-width:720px) {
+    .navbar{
+        display: none;
+    }
+    .header-body-cont{
+        flex-direction: column;
+    }
+    .header-body-text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .header-body-text h2,
+    .header-body-text p{
+        width: 100%;
+    }
+    .header-body-2{
+        padding: 30px 0;
+        justify-content: center;
+    }
+    .header-body-2 img{
+        width: 80%;
+    }
+    .header-body-info{
+        padding: 20px 90px;
+    }
+
+    .malumotlar-qismi{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .birinchi-qismi{
+        width: 100%;
+        
+    }
+    .malumoti{
+        width: 100%;
+    }
+    .birinchi-qismi p{
+        width: 100%;
+        font-size: 25px;
+    }
+    .Steve-haqida{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .Steve-img{
+        width: 150px;
+        height: 150px;
+    }
+    .Steve-img img{
+        width: 100%;
+        height: 100%;
+    }.text-qismi{
+        width: 50%;
+        display: flex;
+        font-size: 35px;
+        align-items: center;
+        flex-direction: column;
+    }
+    .text-qismi h2,
+    .text-qismi h3{
+        font-size: 25px;
+    }
+    .ikkinchi-qismi{
+        width: 100%;
+    }
+    .sarlavha{
+        width: 100%;
+    }
+    .baholar{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .baholar h2{
+        font-size: 40px;
+    }
+    .baholar p{
+        font-size: 20px;
+    }
+    .logoipsum{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+
+    }
+
+
+    .test-container{
+        width: 100%;
+    }
+    .test-title h2{
+        width: 100%;
+    }
+    .test-body{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 15px 0;
+    }
+    .test-item{
+        margin-top: 15px;
+        width: 95%;
+    }
+    .test-1,
+    .test-2{
+        width: 95%;
+        padding: 25px 0;
+    }
+
+
+    .work-title h2{
+        width: 100%;
+        text-align: center;
+    }
+    .work-body{
+        
+    }
+    .work-item{
+        width: 45%;
+    }
+    .work img{
+        height: 300px;
+    }
+}@media screen and (min-width:721px) and (max-width:1024px) {
+    .header-body-1{
+        flex: 0 0 50%;
+    }
+    .header-body-2{
+        flex: 0 0 50%;
+    }
+    .header-body-2 img{
+        width: 100%;
+        height: 80%;
+    }
+    .header-body-text h2{
+        width: 100%;
+    }
+    .header-body-text p{
+        width: 100%;
+    }
+    .header-body-info{
+        padding: 30px 0;
+    }
+
+    .Steve-haqida{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .Steve-img{
+        width: 64px;
+        height: 64px;
+    }
+    .Steve-img img{
+        width: 100%;
+        height: 100%;
+    }.text-qismi{
+        width: 50%;
+        display: flex;
+        
+        align-items: center;
+        flex-direction: column;
+    }
+    .text-qismi h2,
+    .text-qismi h3{
+        font-size: 15px;
+    }
+    .work-title h2{
+        width: 100%;
+        text-align: center;
+    }
+    .work-body{
+        
+    }
+    .work img{
+        height: 300px;
+}

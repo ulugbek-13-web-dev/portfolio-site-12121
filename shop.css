@@ -1,0 +1,59 @@
+.shop{
+    
+    display: flex;
+    justify-content: center;
+}
+.shop-container{
+    
+    width: 90%;
+}
+.shop-title{
+    
+    text-align: center;
+}
+.shop-title h2,
+.shop-title h3{
+    padding: 5px 0;
+    font-family: "Poppins", sans-serif;
+}
+.shop-title h2{
+    font-size: 15px;
+    color:  #4543E8;
+    ;
+}
+.shop-title h3{
+    font-size: 40px;
+}
+
+.shop-item{
+    width: 30%;
+
+}
+.shop-info{
+    padding: 70px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.shop-info h2{
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+.shop-info p{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+}
+.shop-next-page{
+    padding: 50px 0;
+    display: flex;
+    justify-content: center;
+}
+.shop-next-page button{
+    width: 170px;
+    height: 60px;
+    background-color: white;
+    border: 1px solid blue;
+    color: rgb(84, 84, 218);
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    border-radius: 30px;
+}
